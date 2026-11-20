@@ -1,0 +1,75 @@
+2026/11/20 23:21:27 Worker worker-2 gRPC server is running on port 50053
+2026/11/20 23:21:27 Worker registered: Worker registered successfully
+2026/11/20 23:21:32 Heartbeat acknowledged
+2026/11/20 23:21:37 Heartbeat acknowledged
+2026/11/20 23:21:42 Heartbeat acknowledged
+2026/11/20 23:21:47 Heartbeat acknowledged
+2026/11/20 23:21:52 Heartbeat acknowledged
+2026/11/20 23:21:57 Heartbeat acknowledged
+2026/11/20 23:22:02 Heartbeat acknowledged
+2026/11/20 23:22:07 Heartbeat acknowledged
+2026/11/20 23:22:12 Heartbeat acknowledged
+2026/11/20 23:22:17 Heartbeat acknowledged
+2026/11/20 23:22:22 Heartbeat acknowledged
+2026/11/20 23:22:27 Heartbeat acknowledged
+2026/11/20 23:22:32 Heartbeat acknowledged
+2026/11/20 23:22:37 Heartbeat acknowledged
+2026/11/20 23:22:42 Heartbeat acknowledged
+2026/11/20 23:22:47 Heartbeat acknowledged
+2026/11/20 23:22:52 Heartbeat acknowledged
+2026/11/20 23:22:57 Heartbeat acknowledged
+2026/11/20 23:23:02 Heartbeat acknowledged
+2026/11/20 23:23:07 Heartbeat acknowledged
+2026/11/20 23:23:12 Heartbeat acknowledged
+2026/11/20 23:23:17 Heartbeat acknowledged
+2026/11/20 23:23:22 Heartbeat acknowledged
+2026/11/20 23:23:27 Heartbeat acknowledged
+2026/11/20 23:23:32 Heartbeat acknowledged
+2026/11/20 23:23:37 Heartbeat acknowledged
+2026/11/20 23:23:42 Heartbeat acknowledged
+2026/11/20 23:23:47 Heartbeat acknowledged
+2026/11/20 23:23:52 Heartbeat acknowledged
+2026/11/20 23:23:57 Heartbeat acknowledged
+2026/11/20 23:24:02 Heartbeat acknowledged
+2026/11/20 23:24:07 Heartbeat acknowledged
+2026/11/20 23:24:12 Heartbeat acknowledged
+2026/11/20 23:24:17 Heartbeat acknowledged
+2026/11/20 23:24:22 Heartbeat acknowledged
+2026/11/20 23:24:27 Heartbeat acknowledged
+2026/11/20 23:24:32 Heartbeat acknowledged
+2026/11/20 23:24:37 Heartbeat acknowledged
+2026/11/20 23:24:42 Heartbeat acknowledged
+2026/11/20 23:24:47 Heartbeat acknowledged
+2026/11/20 23:24:52 Heartbeat acknowledged
+2026/11/20 23:24:57 Heartbeat acknowledged
+2026/11/20 23:25:02 Heartbeat acknowledged
+2026/11/20 23:25:07 Heartbeat acknowledged
+2026/11/20 23:25:12 Heartbeat acknowledged
+2026/11/20 23:25:17 Heartbeat acknowledged
+2026/11/20 23:25:22 Heartbeat acknowledged
+2026/11/20 23:25:27 Heartbeat acknowledged
+2026/11/20 23:25:32 Heartbeat acknowledged
+2026/11/20 23:25:37 Heartbeat acknowledged
+2026/11/20 23:25:42 Heartbeat acknowledged
+2026/11/20 23:25:47 Heartbeat acknowledged
+2026/11/20 23:25:52 Heartbeat acknowledged
+2026/11/20 23:25:57 Heartbeat acknowledged
+2026/11/20 23:26:02 Heartbeat acknowledged
+2026/11/20 23:26:07 Heartbeat acknowledged
+2026/11/20 23:26:12 Heartbeat acknowledged
+2026/11/20 23:26:17 Heartbeat acknowledged
+2026/11/20 23:26:22 Heartbeat acknowledged
+2026/11/20 23:26:27 Heartbeat acknowledged
+2026/11/20 23:26:32 Heartbeat acknowledged
+2026/11/20 23:26:37 Heartbeat acknowledged
+2026/11/20 23:26:42 Heartbeat acknowledged
+2026/11/20 23:26:47 Heartbeat acknowledged
+2026/11/20 23:26:52 Heartbeat acknowledged
+2026/11/20 23:26:57 Heartbeat acknowledged
+2026/11/20 23:27:02 Heartbeat acknowledged
+2026/11/20 23:27:03 Worker worker-2 started job job-9: range [0, 1000000)
+2026/11/20 23:27:05 Worker worker-2 completed its range
+2026/11/20 23:27:05 Worker worker-2 started job job-9: range [1000000, 2000000)
+2026/11/20 23:27:06 Worker worker-2 completed its range
+2026/11/20 23:27:07 Worker worker-2 started job job-9: range [2000000, 3000000)
+2026/11/20 23:27:07 Heartbeat acknowledged

@@ -1,0 +1,330 @@
+2026/11/20 23:09:47 Worker worker-1 gRPC server is running on port 50052
+2026/11/20 23:09:47 Worker registered: Worker registered successfully
+2026/11/20 23:09:52 Heartbeat acknowledged
+2026/11/20 23:09:57 Heartbeat acknowledged
+2026/11/20 23:10:02 Heartbeat acknowledged
+2026/11/20 23:10:07 Heartbeat acknowledged
+2026/11/20 23:10:12 Heartbeat acknowledged
+2026/11/20 23:10:17 Heartbeat acknowledged
+2026/11/20 23:10:22 Heartbeat acknowledged
+2026/11/20 23:10:27 Heartbeat acknowledged
+2026/11/20 23:10:32 Heartbeat acknowledged
+2026/11/20 23:10:37 Heartbeat acknowledged
+2026/11/20 23:10:42 Heartbeat acknowledged
+2026/11/20 23:10:47 Heartbeat acknowledged
+2026/11/20 23:10:52 Heartbeat acknowledged
+2026/11/20 23:10:57 Heartbeat acknowledged
+2026/11/20 23:11:02 Heartbeat acknowledged
+2026/11/20 23:11:07 Heartbeat acknowledged
+2026/11/20 23:11:12 Heartbeat acknowledged
+2026/11/20 23:11:17 Heartbeat acknowledged
+2026/11/20 23:11:22 Heartbeat acknowledged
+2026/11/20 23:11:27 Heartbeat acknowledged
+2026/11/20 23:11:32 Heartbeat acknowledged
+2026/11/20 23:11:37 Heartbeat acknowledged
+2026/11/20 23:11:42 Heartbeat acknowledged
+2026/11/20 23:11:47 Heartbeat acknowledged
+2026/11/20 23:11:52 Heartbeat acknowledged
+2026/11/20 23:11:57 Heartbeat acknowledged
+2026/11/20 23:12:02 Heartbeat acknowledged
+2026/11/20 23:12:07 Heartbeat acknowledged
+2026/11/20 23:12:10 Worker worker-1 started job job-1: range [0, 1000000)
+2026/11/20 23:12:10 Worker found nonce: 60067
+2026/11/20 23:12:12 Heartbeat acknowledged
+2026/11/20 23:12:17 Heartbeat acknowledged
+2026/11/20 23:12:22 Heartbeat acknowledged
+2026/11/20 23:12:27 Heartbeat acknowledged
+2026/11/20 23:12:29 Worker worker-1 started job job-2: range [0, 1000000)
+2026/11/20 23:12:29 Worker found nonce: 156056
+2026/11/20 23:12:32 Heartbeat acknowledged
+2026/11/20 23:12:37 Heartbeat acknowledged
+2026/11/20 23:12:42 Heartbeat acknowledged
+2026/11/20 23:12:47 Heartbeat acknowledged
+2026/11/20 23:12:52 Heartbeat acknowledged
+2026/11/20 23:12:57 Heartbeat acknowledged
+2026/11/20 23:13:02 Heartbeat acknowledged
+2026/11/20 23:13:07 Heartbeat acknowledged
+2026/11/20 23:13:12 Heartbeat acknowledged
+2026/11/20 23:13:17 Heartbeat acknowledged
+2026/11/20 23:13:18 Worker worker-1 started job job-3: range [0, 1000000)
+2026/11/20 23:13:19 Worker worker-1 completed its range
+2026/11/20 23:13:19 Worker worker-1 started job job-3: range [1000000, 2000000)
+2026/11/20 23:13:20 Worker worker-1 completed its range
+2026/11/20 23:13:20 Worker worker-1 started job job-3: range [2000000, 3000000)
+2026/11/20 23:13:22 Heartbeat acknowledged
+2026/11/20 23:13:22 Worker worker-1 completed its range
+2026/11/20 23:13:22 Worker worker-1 started job job-3: range [3000000, 4000000)
+2026/11/20 23:13:23 Worker worker-1 completed its range
+2026/11/20 23:13:23 Worker worker-1 started job job-3: range [4000000, 5000000)
+2026/11/20 23:13:24 Worker worker-1 completed its range
+2026/11/20 23:13:25 Worker worker-1 started job job-3: range [5000000, 6000000)
+2026/11/20 23:13:26 Worker worker-1 completed its range
+2026/11/20 23:13:26 Worker worker-1 started job job-3: range [6000000, 7000000)
+2026/11/20 23:13:27 Worker worker-1 completed its range
+2026/11/20 23:13:27 Worker worker-1 started job job-3: range [7000000, 8000000)
+2026/11/20 23:13:27 Heartbeat acknowledged
+2026/11/20 23:13:28 Worker worker-1 completed its range
+2026/11/20 23:13:28 Worker worker-1 started job job-3: range [8000000, 9000000)
+2026/11/20 23:13:30 Worker worker-1 completed its range
+2026/11/20 23:13:30 Worker worker-1 started job job-3: range [9000000, 10000000)
+2026/11/20 23:13:31 Worker worker-1 completed its range
+2026/11/20 23:13:31 Worker worker-1 started job job-3: range [10000000, 11000000)
+2026/11/20 23:13:32 Heartbeat acknowledged
+2026/11/20 23:13:32 Worker worker-1 completed its range
+2026/11/20 23:13:32 Worker worker-1 started job job-3: range [11000000, 12000000)
+2026/11/20 23:13:34 Worker worker-1 completed its range
+2026/11/20 23:13:34 Worker worker-1 started job job-3: range [12000000, 13000000)
+2026/11/20 23:13:35 Worker worker-1 completed its range
+2026/11/20 23:13:43 Worker worker-1 completed its range
+2026/11/20 23:13:43 Worker worker-1 started job job-3: range [19000000, 20000000)
+2026/11/20 23:13:46 Worker worker-1 completed its range
+2026/11/20 23:13:46 Worker worker-1 started job job-3: range [20000000, 21000000)
+2026/11/20 23:13:47 Heartbeat acknowledged
+2026/11/20 23:13:50 Worker worker-1 completed its range
+2026/11/20 23:13:50 Worker worker-1 started job job-3: range [21000000, 22000000)
+2026/11/20 23:13:52 Heartbeat acknowledged
+2026/11/20 23:13:53 Worker worker-1 completed its range
+2026/11/20 23:13:53 Worker worker-1 started job job-3: range [22000000, 23000000)
+2026/11/20 23:13:55 Worker worker-1 completed its range
+2026/11/20 23:13:55 Worker worker-1 started job job-3: range [23000000, 24000000)
+2026/11/20 23:13:57 Heartbeat acknowledged
+2026/11/20 23:13:57 Worker worker-1 completed its range
+2026/11/20 23:13:57 Worker worker-1 started job job-3: range [24000000, 25000000)
+2026/11/20 23:13:59 Worker worker-1 completed its range
+2026/11/20 23:13:59 Worker worker-1 started job job-3: range [25000000, 26000000)
+2026/11/20 23:14:00 Worker worker-1 completed its range
+2026/11/20 23:14:00 Worker worker-1 started job job-3: range [26000000, 27000000)
+2026/11/20 23:14:02 Heartbeat acknowledged
+2026/11/20 23:14:02 Worker worker-1 completed its range
+2026/11/20 23:14:02 Worker worker-1 started job job-3: range [27000000, 28000000)
+2026/11/20 23:14:04 Worker worker-1 completed its range
+2026/11/20 23:14:04 Worker worker-1 started job job-3: range [28000000, 29000000)
+2026/11/20 23:14:05 Worker worker-1 completed its range
+2026/11/20 23:14:06 Worker worker-1 started job job-3: range [29000000, 30000000)
+2026/11/20 23:14:07 Heartbeat acknowledged
+2026/11/20 23:14:07 Worker worker-1 completed its range
+2026/11/20 23:14:07 Worker worker-1 started job job-3: range [30000000, 31000000)
+2026/11/20 23:14:10 Worker worker-1 completed its range
+2026/11/20 23:14:10 Worker worker-1 started job job-3: range [31000000, 32000000)
+2026/11/20 23:14:11 Worker worker-1 completed its range
+2026/11/20 23:14:12 Worker worker-1 started job job-3: range [32000000, 33000000)
+2026/11/20 23:14:12 Heartbeat acknowledged
+2026/11/20 23:14:13 Worker worker-1 completed its range
+2026/11/20 23:14:13 Worker worker-1 started job job-3: range [33000000, 34000000)
+2026/11/20 23:14:14 Worker found nonce: 33290382
+2026/11/20 23:14:17 Heartbeat acknowledged
+2026/11/20 23:14:22 Heartbeat acknowledged
+2026/11/20 23:14:27 Heartbeat acknowledged
+2026/11/20 23:14:32 Heartbeat acknowledged
+2026/11/20 23:14:37 Heartbeat acknowledged
+2026/11/20 23:14:42 Heartbeat acknowledged
+2026/11/20 23:14:47 Heartbeat acknowledged
+2026/11/20 23:14:52 Heartbeat acknowledged
+2026/11/20 23:14:56 Worker worker-1 started job job-4: range [0, 1000000)
+2026/11/20 23:14:57 Worker found nonce: 209960
+2026/11/20 23:14:57 Worker worker-1 started job job-5: range [0, 1000000)
+2026/11/20 23:14:57 Heartbeat acknowledged
+2026/11/20 23:14:57 Worker found nonce: 133252
+2026/11/20 23:14:57 Worker worker-1 started job job-6: range [0, 1000000)
+2026/11/20 23:14:57 Worker found nonce: 80594
+2026/11/20 23:15:02 Heartbeat acknowledged
+2026/11/20 23:15:07 Heartbeat acknowledged
+2026/11/20 23:15:12 Heartbeat acknowledged
+2026/11/20 23:15:17 Heartbeat acknowledged
+2026/11/20 23:15:22 Heartbeat acknowledged
+2026/11/20 23:15:27 Heartbeat acknowledged
+2026/11/20 23:15:32 Worker worker-1 started job job-7: range [0, 1000000)
+2026/11/20 23:15:32 Heartbeat acknowledged
+2026/11/20 23:15:33 Worker worker-1 completed its range
+2026/11/20 23:15:33 Worker worker-1 started job job-7: range [1000000, 2000000)
+2026/11/20 23:15:34 Worker worker-1 completed its range
+2026/11/20 23:15:34 Worker worker-1 started job job-7: range [2000000, 3000000)
+2026/11/20 23:15:35 Worker worker-1 completed its range
+2026/11/20 23:15:35 Worker worker-1 started job job-7: range [3000000, 4000000)
+2026/11/20 23:15:36 Worker worker-1 completed its range
+2026/11/20 23:15:36 Worker worker-1 started job job-7: range [4000000, 5000000)
+2026/11/20 23:15:37 Heartbeat acknowledged
+2026/11/20 23:15:37 Worker worker-1 completed its range
+2026/11/20 23:15:38 Worker worker-1 started job job-7: range [5000000, 6000000)
+2026/11/20 23:15:39 Worker worker-1 completed its range
+2026/11/20 23:15:39 Worker worker-1 started job job-7: range [6000000, 7000000)
+2026/11/20 23:15:40 Worker worker-1 completed its range
+2026/11/20 23:15:40 Worker worker-1 started job job-7: range [7000000, 8000000)
+2026/11/20 23:15:42 Worker worker-1 completed its range
+2026/11/20 23:15:42 Worker worker-1 started job job-7: range [8000000, 9000000)
+2026/11/20 23:15:42 Heartbeat acknowledged
+2026/11/20 23:15:43 Worker worker-1 completed its range
+2026/11/20 23:15:43 Worker worker-1 started job job-7: range [9000000, 10000000)
+2026/11/20 23:15:44 Worker worker-1 completed its range
+2026/11/20 23:15:45 Worker worker-1 started job job-7: range [10000000, 11000000)
+2026/11/20 23:15:46 Worker worker-1 completed its range
+2026/11/20 23:15:47 Worker worker-1 started job job-7: range [11000000, 12000000)
+2026/11/20 23:15:47 Heartbeat acknowledged
+2026/11/20 23:15:48 Worker worker-1 completed its range
+2026/11/20 23:15:49 Worker worker-1 started job job-7: range [12000000, 13000000)
+2026/11/20 23:15:50 Worker worker-1 completed its range
+2026/11/20 23:15:51 Worker worker-1 started job job-7: range [13000000, 14000000)
+2026/11/20 23:15:52 Heartbeat acknowledged
+2026/11/20 23:15:52 Worker worker-1 completed its range
+2026/11/20 23:15:52 Worker worker-1 started job job-7: range [14000000, 15000000)
+2026/11/20 23:15:54 Worker worker-1 completed its range
+2026/11/20 23:15:55 Worker worker-1 started job job-7: range [15000000, 16000000)
+2026/11/20 23:15:57 Worker worker-1 completed its range
+2026/11/20 23:15:57 Worker worker-1 started job job-7: range [16000000, 17000000)
+2026/11/20 23:15:57 Heartbeat acknowledged
+2026/11/20 23:15:59 Worker worker-1 completed its range
+2026/11/20 23:15:59 Worker worker-1 started job job-7: range [17000000, 18000000)
+2026/11/20 23:16:00 Worker worker-1 completed its range
+2026/11/20 23:16:01 Worker worker-1 started job job-7: range [18000000, 19000000)
+2026/11/20 23:16:02 Heartbeat acknowledged
+2026/11/20 23:16:02 Worker worker-1 completed its range
+2026/11/20 23:16:02 Worker worker-1 started job job-7: range [19000000, 20000000)
+2026/11/20 23:16:04 Worker worker-1 completed its range
+2026/11/20 23:16:04 Worker worker-1 started job job-7: range [20000000, 21000000)
+2026/11/20 23:16:06 Worker worker-1 completed its range
+2026/11/20 23:16:06 Worker worker-1 started job job-7: range [21000000, 22000000)
+2026/11/20 23:16:07 Heartbeat acknowledged
+2026/11/20 23:16:10 Worker worker-1 completed its range
+2026/11/20 23:16:10 Worker worker-1 started job job-7: range [22000000, 23000000)
+2026/11/20 23:16:12 Heartbeat acknowledged
+2026/11/20 23:16:13 Worker worker-1 completed its range
+2026/11/20 23:16:14 Worker worker-1 started job job-7: range [23000000, 24000000)
+2026/11/20 23:16:17 Worker worker-1 completed its range
+2026/11/20 23:16:17 Worker worker-1 started job job-7: range [24000000, 25000000)
+2026/11/20 23:16:17 Heartbeat acknowledged
+2026/11/20 23:16:20 Worker worker-1 completed its range
+2026/11/20 23:16:20 Worker worker-1 started job job-7: range [25000000, 26000000)
+2026/11/20 23:16:22 Heartbeat acknowledged
+2026/11/20 23:16:22 Worker worker-1 completed its range
+2026/11/20 23:16:22 Worker worker-1 started job job-7: range [26000000, 27000000)
+2026/11/20 23:16:25 Worker worker-1 completed its range
+2026/11/20 23:16:25 Worker worker-1 started job job-7: range [27000000, 28000000)
+2026/11/20 23:16:27 Worker worker-1 completed its range
+2026/11/20 23:16:27 Worker worker-1 started job job-7: range [28000000, 29000000)
+2026/11/20 23:16:27 Heartbeat acknowledged
+2026/11/20 23:16:29 Worker worker-1 completed its range
+2026/11/20 23:16:29 Worker worker-1 started job job-7: range [29000000, 30000000)
+2026/11/20 23:16:31 Worker worker-1 completed its range
+2026/11/20 23:16:32 Worker worker-1 started job job-7: range [30000000, 31000000)
+2026/11/20 23:16:32 Heartbeat acknowledged
+2026/11/20 23:16:34 Worker worker-1 completed its range
+2026/11/20 23:16:35 Worker worker-1 started job job-7: range [31000000, 32000000)
+2026/11/20 23:16:37 Worker worker-1 completed its range
+2026/11/20 23:16:37 Heartbeat acknowledged
+2026/11/20 23:16:37 Worker worker-1 started job job-7: range [32000000, 33000000)
+2026/11/20 23:16:39 Worker worker-1 completed its range
+2026/11/20 23:16:39 Worker worker-1 started job job-7: range [33000000, 34000000)
+2026/11/20 23:16:41 Worker worker-1 completed its range
+2026/11/20 23:16:41 Worker worker-1 started job job-7: range [34000000, 35000000)
+2026/11/20 23:16:42 Heartbeat acknowledged
+2026/11/20 23:16:43 Worker worker-1 completed its range
+2026/11/20 23:16:43 Worker worker-1 started job job-7: range [35000000, 36000000)
+2026/11/20 23:16:46 Worker worker-1 completed its range
+2026/11/20 23:16:46 Worker worker-1 started job job-7: range [36000000, 37000000)
+2026/11/20 23:16:47 Heartbeat acknowledged
+2026/11/20 23:16:48 Worker worker-1 completed its range
+2026/11/20 23:16:48 Worker worker-1 started job job-7: range [37000000, 38000000)
+2026/11/20 23:16:50 Worker worker-1 completed its range
+2026/11/20 23:16:50 Worker worker-1 started job job-7: range [38000000, 39000000)
+2026/11/20 23:16:52 Heartbeat acknowledged
+2026/11/20 23:16:52 Worker worker-1 completed its range
+2026/11/20 23:16:52 Worker worker-1 started job job-7: range [39000000, 40000000)
+2026/11/20 23:16:55 Worker worker-1 completed its range
+2026/11/20 23:16:55 Worker worker-1 started job job-7: range [40000000, 41000000)
+2026/11/20 23:16:57 Heartbeat acknowledged
+2026/11/20 23:16:57 Worker worker-1 completed its range
+2026/11/20 23:16:58 Worker worker-1 started job job-7: range [41000000, 42000000)
+2026/11/20 23:17:02 Heartbeat acknowledged
+2026/11/20 23:17:05 Worker worker-1 completed its range
+2026/11/20 23:17:05 Worker worker-1 started job job-7: range [42000000, 43000000)
+2026/11/20 23:17:07 Heartbeat acknowledged
+2026/11/20 23:17:07 Worker worker-1 completed its range
+2026/11/20 23:17:07 Worker worker-1 started job job-7: range [43000000, 44000000)
+2026/11/20 23:17:09 Worker worker-1 completed its range
+2026/11/20 23:17:10 Worker worker-1 started job job-7: range [44000000, 45000000)
+2026/11/20 23:17:12 Heartbeat acknowledged
+2026/11/20 23:17:13 Worker worker-1 completed its range
+2026/11/20 23:17:13 Worker worker-1 started job job-7: range [45000000, 46000000)
+2026/11/20 23:17:17 Heartbeat acknowledged
+2026/11/20 23:17:17 Worker worker-1 completed its range
+2026/11/20 23:17:17 Worker worker-1 started job job-7: range [46000000, 47000000)
+2026/11/20 23:17:22 Heartbeat acknowledged
+2026/11/20 23:17:27 Heartbeat acknowledged
+2026/11/20 23:17:29 Worker worker-1 completed its range
+2026/11/20 23:17:29 Worker worker-1 started job job-7: range [47000000, 48000000)
+2026/11/20 23:17:32 Heartbeat acknowledged
+2026/11/20 23:17:37 Worker worker-1 completed its range
+2026/11/20 23:17:37 Heartbeat acknowledged
+2026/11/20 23:17:37 Worker worker-1 started job job-7: range [48000000, 49000000)
+2026/11/20 23:17:42 Heartbeat acknowledged
+2026/11/20 23:17:42 Worker worker-1 completed its range
+2026/11/20 23:17:43 Worker worker-1 started job job-7: range [49000000, 50000000)
+2026/11/20 23:17:47 Heartbeat acknowledged
+2026/11/20 23:17:52 Heartbeat acknowledged
+2026/11/20 23:17:56 Worker worker-1 completed its range
+2026/11/20 23:17:56 Worker worker-1 started job job-7: range [50000000, 51000000)
+2026/11/20 23:17:57 Heartbeat acknowledged
+2026/11/20 23:18:02 Heartbeat acknowledged
+2026/11/20 23:18:07 Heartbeat acknowledged
+2026/11/20 23:18:12 Heartbeat acknowledged
+2026/11/20 23:18:12 Worker worker-1 completed its range
+2026/11/20 23:18:13 Worker worker-1 started job job-7: range [51000000, 52000000)
+2026/11/20 23:18:17 Heartbeat acknowledged
+2026/11/20 23:18:20 Search cancelled: context canceled
+2026/11/20 23:18:22 Heartbeat acknowledged
+2026/11/20 23:18:27 Heartbeat acknowledged
+2026/11/20 23:18:32 Heartbeat acknowledged
+2026/11/20 23:18:37 Heartbeat acknowledged
+2026/11/20 23:18:42 Heartbeat acknowledged
+2026/11/20 23:18:47 Heartbeat acknowledged
+2026/11/20 23:18:52 Heartbeat acknowledged
+2026/11/20 23:18:57 Heartbeat acknowledged
+2026/11/20 23:19:02 Heartbeat acknowledged
+2026/11/20 23:19:07 Heartbeat acknowledged
+2026/11/20 23:19:12 Heartbeat acknowledged
+2026/11/20 23:19:17 Heartbeat acknowledged
+2026/11/20 23:19:22 Heartbeat acknowledged
+2026/11/20 23:19:27 Heartbeat acknowledged
+2026/11/20 23:19:32 Heartbeat acknowledged
+2026/11/20 23:19:37 Heartbeat acknowledged
+2026/11/20 23:19:42 Heartbeat acknowledged
+2026/11/20 23:19:47 Heartbeat acknowledged
+2026/11/20 23:19:52 Heartbeat acknowledged
+2026/11/20 23:19:57 Heartbeat acknowledged
+2026/11/20 23:20:02 Heartbeat acknowledged
+2026/11/20 23:20:02 Worker worker-1 started job job-8: range [0, 1000000)
+2026/11/20 23:20:04 Worker worker-1 completed its range
+2026/11/20 23:20:04 Worker worker-1 started job job-8: range [1000000, 2000000)
+2026/11/20 23:20:07 Worker worker-1 completed its range
+2026/11/20 23:20:07 Heartbeat acknowledged
+2026/11/20 23:20:07 Worker worker-1 started job job-8: range [2000000, 3000000)
+2026/11/20 23:20:09 Worker worker-1 completed its range
+2026/11/20 23:20:09 Worker worker-1 started job job-8: range [3000000, 4000000)
+2026/11/20 23:20:10 Worker worker-1 completed its range
+2026/11/20 23:20:10 Worker worker-1 started job job-8: range [4000000, 5000000)
+2026/11/20 23:20:12 Heartbeat acknowledged
+2026/11/20 23:20:12 Worker worker-1 completed its range
+2026/11/20 23:20:12 Worker worker-1 started job job-8: range [5000000, 6000000)
+2026/11/20 23:20:14 Worker worker-1 completed its range
+2026/11/20 23:20:14 Worker worker-1 started job job-8: range [6000000, 7000000)
+2026/11/20 23:20:16 Worker worker-1 completed its range
+2026/11/20 23:20:16 Worker worker-1 started job job-8: range [7000000, 8000000)
+2026/11/20 23:20:17 Heartbeat acknowledged
+2026/11/20 23:20:18 Worker worker-1 completed its range
+2026/11/20 23:20:18 Worker worker-1 started job job-8: range [8000000, 9000000)
+2026/11/20 23:20:19 Worker worker-1 completed its range
+2026/11/20 23:20:19 Worker worker-1 started job job-8: range [9000000, 10000000)
+2026/11/20 23:20:21 Worker worker-1 completed its range
+2026/11/20 23:20:21 Worker worker-1 started job job-8: range [10000000, 11000000)
+2026/11/20 23:20:22 Heartbeat acknowledged
+2026/11/20 23:20:22 Worker worker-1 completed its range
+2026/11/20 23:20:22 Worker worker-1 started job job-8: range [11000000, 12000000)
+2026/11/20 23:20:24 Worker worker-1 completed its range
+2026/11/20 23:20:24 Worker worker-1 started job job-8: range [12000000, 13000000)
+2026/11/20 23:20:25 Worker worker-1 completed its range
+2026/11/20 23:20:25 Worker worker-1 started job job-8: range [13000000, 14000000)
+2026/11/20 23:20:25 Worker found nonce: 13092946
+2026/11/20 23:20:27 Heartbeat acknowledged
+2026/11/20 23:20:32 Heartbeat acknowledged
+2026/11/20 23:20:37 Heartbeat acknowledged
+2026/11/20 23:20:42 Heartbeat acknowledged
